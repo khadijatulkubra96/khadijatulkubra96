@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-tul-kubra-ai/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadijatulkubra091@gmail.com)
-
 ### 👨‍💻 About Me
 I'm a Data Science Intern currently at **Arch Technologies** optimizing machine learning , deep learning and predictive analytics.
 I focus on bridging the gap between raw data and business decisions using Python and neural networks.
